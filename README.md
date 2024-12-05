@@ -1,28 +1,21 @@
+# BMI Calculator App
+App developed as part of The App Brewery's Complete App Development Bootcamp.
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Project Summary
+This project is a Body Mass Index (BMI) calculator app uses the users weight and height to compute their BMI. This app utilizes multiple key concepts in swift to implement.
 
-#  BMI Calculator
+# Key Concepts
+- App navigation
+- Optional binding, chaining, and nil coelescence 
+- Classes and Structs
+- Functions and methods in Swift.
+- Error handling in Swift.
+- Code refactoring
+- Basic debugging
 
-## Our Goal
-
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
-
-## What you will create
-
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
-
-## What you will learn
-
-* How to create multi-screen apps with animated navigation.
-* Optional binding, optional chaining and the nil coalescing operator.
-* How to create classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
-* Formatting Strings. 
-* Color literals.
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-# BMI-Calculator-iOS13
+# Screenshots
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/3a03745d-c023-4a1f-9cc9-370d182d9e7b" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/463149ed-a132-4afa-b2f7-68a3f3726965" width="160" /> 
+  <img src="https://github.com/user-attachments/assets/eda36185-99f7-4b32-8913-3db52e4c66bf" width="160" /> 
+</p>
